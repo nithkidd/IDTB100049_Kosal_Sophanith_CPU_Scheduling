@@ -8,13 +8,13 @@ How to Compile and Run the Program:
     Clone the Repository:
         Open your terminal and clone the repository using git:
 
-    git clone https://github.com/PromSereyreaksa/IDT100078_Prom_Sereyreaksa_CPU_Scheduling.git
+    git clone https://github.com/nithkidd/IDTB100049_Kosal_Sophanith_CPU_Scheduling
 
 Navigate to the Project Directory:
 
     Change to the project directory:
 
-    cd IDT100078_Prom_Sereyreaksa_CPU_Scheduling
+    cd IDT100049_Kosal_Sophanith_CPU_Scheduling
 
 Compile the Java Program:
 
